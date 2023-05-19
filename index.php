@@ -2,13 +2,13 @@
 
 // Configuration de la connexion à la base de données
 
-$host = "localhost";
+$host = "mysql-minepluie.alwaysdata.net";
 
-$user = "votre_utilisateur";
+$user = "minepluie";
 
-$password = "votre_mot_de_passe";
+$password = "Flammouche";
 
-$database = "votre_base_de_donnees";
+$database = "minepluie_connexionjeu";
 
 // Fonction pour établir la connexion à la base de données
 
